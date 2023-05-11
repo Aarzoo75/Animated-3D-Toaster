@@ -13,3 +13,4 @@ To achieve the 3D rotation effect, CSS transforms are used. When the user moves 
 This animated 3D toaster is a fun and interactive example of what can be achieved with HTML and CSS. By using CSS animations and transforms, we were able to create an engaging user experience that includes several interactive features. If you're interested in learning more about how this toaster was built, feel free to dive into the code and experiment with it yourself!
 
 ## Animated 3D Toaster Preview
+<img width="960" alt="Screenshot 2023-05-11 164917" src="https://github.com/Aarzoo75/Animated-3D-Toaster/assets/59678435/c301d85e-44cd-4360-838d-776a66a6cd22">
